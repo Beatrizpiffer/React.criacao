@@ -15,7 +15,7 @@ function Home() {
 export default Home
 
 
-/* CSS do react */
+ /* Css do React*/
 
 .home_container {
 	width: 100%;
